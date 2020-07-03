@@ -1,0 +1,1 @@
+console.log(d3.min([1,2, 'f',0, -1]))
