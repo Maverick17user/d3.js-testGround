@@ -4,7 +4,7 @@ import { loger } from '../../common.js'
 export default () => {
     const arr = [2, 8, 0, -1, 'ilikecandies', null, undefined]
 
-    console.log('*=*=*=*=*=*=* Arrays / Statistics *=*=*=*=*=*=*')
+    console.log('\n*=*=*=*=*=*=* Arrays / Statistics *=*=*=*=*=*=*')
     loger(0, 'arr', arr)
     console.log('*=*=*=*=*=*=*=*=*=*=*   *=*=*=*=*=*=*=*=*=*=*=*')
 
